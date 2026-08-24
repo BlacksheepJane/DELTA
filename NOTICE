@@ -1,0 +1,10 @@
+DELTA
+Copyright 2026 DELTA contributors
+
+This product includes software derived from SVD-LLM,
+Copyright 2024 SVD-LLM contributors, licensed under Apache License 2.0.
+
+This product includes a modified copy of SINQ,
+Copyright 2025 SINQ contributors, licensed under Apache License 2.0.
+The vendored implementation under delta/_vendor/sinq is the version tested
+with DELTA and is intentionally independent of any external SINQ checkout.

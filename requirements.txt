@@ -1,0 +1,11 @@
+accelerate==1.10.1
+datasets==2.16.1
+evaluate==0.4.6
+lm_eval==0.4.7
+numpy==1.26.3
+peft==0.10.0
+safetensors==0.6.2
+huggingface-hub==0.34.4
+sentencepiece==0.1.99
+tqdm==4.65.0
+transformers==4.35.2
