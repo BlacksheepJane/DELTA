@@ -88,3 +88,15 @@ open-source contributions.
 
 DELTA is released under the Apache License 2.0. See `NOTICE` and
 `delta/_vendor/sinq/LICENSE` for third-party attribution.
+
+## Citation
+
+If you find DELTA useful or relevant to your research, please kindly cite our paper:
+
+```bibtex
+@inproceedings{zhan2026delta,
+  title={{DELTA}: Decoupling Latent Heterogeneity in Asymmetric Low-Rank Compression},
+  author={Zhan, Jialin and Liu, Fangxin and Wang, Junjie and Yang, Ning and Jiang, Li and Guan, Haibing},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  year={2026}
+}
