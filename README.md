@@ -23,7 +23,6 @@ For other CUDA versions, install the corresponding PyTorch wheel. The modified
 in `delta/_vendor/sinq`; do not install another SINQ package.
 
 ```bash
-python -m unittest discover -s tests -v
 bash -n scripts/*.sh
 ```
 
@@ -86,8 +85,7 @@ open-source contributions.
 
 ## License
 
-DELTA is released under the Apache License 2.0. See `NOTICE` and
-`delta/_vendor/sinq/LICENSE` for third-party attribution.
+DELTA is released under the [Apache License 2.0](LICENSE). See [NOTICE](NOTICE) and [delta/_vendor/sinq/LICENSE](delta/_vendor/sinq/LICENSE) for third-party attribution.
 
 ## Citation
 
